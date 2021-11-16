@@ -1,3 +1,7 @@
+# que-palta
+A vanilla website with many types of avocados - made using tailwind + snowpack
+
+
 # Snowpack Tailwind
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
