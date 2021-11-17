@@ -1,3 +1,36 @@
 @import 'tailwindcss/dist/base.css';
 @import 'tailwindcss/dist/components.css';
 @import 'tailwindcss/dist/utilities.css';
+
+/* #app .bg-white {
+  display: flex;
+} */
+
+#app {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+#app .card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 350px;
+  border: 1px solid rgb(233, 227, 241);
+  margin: 10px;
+  cursor: pointer;
+}
+
+#app .card img {
+  display: flex;
+  width: 200px;
+}
+
+#app .card div {
+  margin-left: 10px;
+}
+
+#app .card div div {
+  margin-left: 0px;
+}
